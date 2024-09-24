@@ -1,0 +1,26 @@
+[
+    {
+        "paymentmode": "01   Cash"
+    },
+    {
+        "paymentmode": "02   Cheque"
+    },
+    {
+        "paymentmode": "03   Bank Transfer"
+    },
+    {
+        "paymentmode": "04   Credit Card"
+    },
+    {
+        "paymentmode": "05   Debit Card"
+    },
+    {
+        "paymentmode": "06   eWallet or Digital Wallet"
+    },
+    {
+        "paymentmode": "07   Digital Bank"
+    },
+    {
+        "paymentmode": "08   Others"
+    }
+]

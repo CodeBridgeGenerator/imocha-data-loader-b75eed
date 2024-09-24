@@ -1,0 +1,29 @@
+[
+    {
+        "frequencyofbilling": "01  Daily"
+    },
+    {
+        "frequencyofbilling": "02  Weekly"
+    },
+    {
+        "frequencyofbilling": "03  Biweekly"
+    },
+    {
+        "frequencyofbilling": "04  Monthly"
+    },
+    {
+        "frequencyofbilling": "05  Bimonthly"
+    },
+    {
+        "frequencyofbilling": "06  Quarterly"
+    },
+    {
+        "frequencyofbilling": "07  Half yearly"
+    },
+    {
+        "frequencyofbilling": "08  Yearly"
+    },
+    {
+        "frequencyofbilling": "09  Others or Not Applicable"
+    }
+]

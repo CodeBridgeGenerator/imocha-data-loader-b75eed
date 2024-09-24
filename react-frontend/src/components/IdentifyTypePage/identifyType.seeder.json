@@ -1,0 +1,14 @@
+[
+    {
+        "identifytype": "BRN - Business Registration number"
+    },
+    {
+        "identifytype": "NRIC - Identification number"
+    },
+    {
+        "identifytype": "PASSPORT - Passport number"
+    },
+    {
+        "identifytype": "ARMY - Army number"
+    }
+]
